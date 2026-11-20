@@ -2,6 +2,12 @@
 
 A live-review proof for the Rework brief **Visual Search and Automated Packing Systems for Digital Commerce and Fulfillment**. It uses the public Stone Wick Fragrance Studio catalog to demonstrate image retrieval, SKU safety gates, fragile-item carton selection, monitoring, and a reviewer-friendly web interface.
 
+## Live proof
+
+- **Live Cloud Run demo:** https://visual-packing-proof-915634103558.us-central1.run.app
+- **45-second screen recording:** [visual-packing-proof-demo.mp4](visual-packing-proof-demo.mp4)
+- **Cloud project:** `project-5b166851-62cd-439e-a82`
+
 ## Measured proof evidence
 
 The checked-in benchmark contains 71 products, 485 variants, and 70 unique visual assets. On 70 camera-style perturbed queries using a warm MobileNetV3 model and an in-memory normalized embedding index, the proof measured:
