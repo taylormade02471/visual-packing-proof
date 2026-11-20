@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-20T00:18:21.508538+00:00",
+  "encoder": "torchvision/mobilenet_v3_large-imagenet1k-v2",
+  "environment": "Windows AMD64 / torch 2.15.0+cpu",
+  "queries_tested": 70,
+  "p50_latency_ms": 27.303,
+  "p95_latency_ms": 29.896,
+  "p99_latency_ms": 36.518,
+  "sla_under_200ms_hot_path": true,
+  "recall_at_1": 0.857143,
+  "recall_at_5": 0.971429,
+  "latency_scope": "hot model and in-memory search path",
+  "limitations": "Camera-style perturbations of the owner's public catalog are a proof benchmark, not a production accuracy claim. Client warehouse images and traffic are required to validate >99.9% SKU accuracy and conversion lift.",
+  "catalog_products": 71,
+  "catalog_variants": 485,
+  "unique_visual_assets": 70,
+  "rejected_assets": 0
+}
