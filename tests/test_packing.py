@@ -43,6 +43,18 @@ def test_confident_visual_match_passes() -> None:
     assert result.tier == "VISUAL_FAST_PATH"
 
 
+def test_visual_match_for_shared_variant_image_holds_without_barcode() -> None:
+    result = verify_item(
+        response(("red", 0.99), ("blue", 0.60)),
+        "SKU-RED-1OZ",
+        "red",
+        visual_variant_count=2,
+    )
+    assert result.verified is False
+    assert result.decision == "HUMAN_REVIEW_HOLD"
+    assert "multiple sku variants" in result.reason.lower()
+
+
 def test_confident_wrong_product_rejects() -> None:
     result = verify_item(response(("blue", 0.95), ("red", 0.60)), "SKU-RED", "red")
     assert result.verified is False
@@ -56,6 +68,12 @@ def test_ambiguous_or_empty_visual_result_holds_for_human_review() -> None:
     assert ambiguous.verified is False
     empty = verify_item(response(), "SKU-RED", "red")
     assert empty.decision == "HUMAN_REVIEW_HOLD"
+
+
+def test_ambiguous_wrong_top_result_holds_instead_of_rejecting() -> None:
+    result = verify_item(response(("blue", 0.95), ("red", 0.94)), "SKU-RED", "red")
+    assert result.decision == "HUMAN_REVIEW_HOLD"
+    assert result.verified is False
 
 
 def test_carton_fit_is_orientation_aware() -> None:

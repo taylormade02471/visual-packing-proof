@@ -13,7 +13,7 @@ from fastapi.staticfiles import StaticFiles
 from .catalog import CatalogAsset, CatalogVariant
 from .monitoring import ModelMonitor
 from .packing import PackageItem, select_carton, verify_item
-from .search import EmbeddingSearchEngine, MobileNetV3Encoder, SearchResponse
+from .search import EmbeddingSearchEngine, EmptyIndexError, MobileNetV3Encoder, SearchResponse
 
 
 PACKAGE_DIR = Path(__file__).resolve().parent
@@ -149,6 +149,8 @@ def create_app(
         payload = await image_payload(file)
         try:
             response = proof.engine.search(payload, top_k=top_k)
+        except EmptyIndexError as error:
+            raise HTTPException(503, "Visual search index is unavailable.") from error
         except ValueError as error:
             raise HTTPException(422, str(error)) from error
         top_score = response.matches[0].score if response.matches else 0.0
@@ -172,20 +174,24 @@ def create_app(
             raise HTTPException(404, "Expected SKU is not in the proof catalog.")
         asset, variant = match
         payload = await image_payload(file)
-        if barcode_sku:
-            response = SearchResponse(0.0, tuple(), torch.empty(0))
-        else:
-            try:
-                response = proof.engine.search(payload, top_k=5)
-            except ValueError as error:
-                raise HTTPException(422, str(error)) from error
+        try:
+            response = proof.engine.search(payload, top_k=5)
+        except EmptyIndexError as error:
+            raise HTTPException(503, "Visual search index is unavailable.") from error
+        except ValueError as error:
+            raise HTTPException(422, str(error)) from error
         decision = verify_item(
             response,
             expected_sku,
             asset.sha256,
             barcode_sku=barcode_sku,
+            visual_variant_count=len(asset.variants),
         )
-        carton = select_carton([PackageItem(expected_sku, variant.dimensions_cm, variant.fragile)])
+        carton = (
+            select_carton([PackageItem(expected_sku, variant.dimensions_cm, variant.fragile)])
+            if decision.verified
+            else None
+        )
         top_score = response.matches[0].score if response.matches else decision.confidence
         proof.monitor.record(
             response.latency_ms,
@@ -194,7 +200,11 @@ def create_app(
             proof.baseline_centroid,
             decision=decision.decision,
         )
-        return {"verification": asdict(decision), "recommended_carton": asdict(carton)}
+        return {
+            "search": _search_payload(response),
+            "verification": asdict(decision),
+            "recommended_carton": asdict(carton) if carton else None,
+        }
 
     return app
 

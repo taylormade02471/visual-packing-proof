@@ -11,6 +11,7 @@ import torch
 from PIL import Image
 
 from .catalog import CatalogAsset, CatalogItem, group_catalog_assets, split_catalog
+from .packing import verify_item
 from .search import EmbeddingSearchEngine, ImageEncoder, run_benchmark
 
 
@@ -106,7 +107,13 @@ def build_artifacts(
     candidates: list[tuple[float, CatalogAsset]] = []
     for asset in accepted:
         response = engine.search(normalized_assets[asset.sha256], top_k=2)
-        if not response.matches or response.matches[0].asset_id != asset.sha256:
+        decision = verify_item(
+            response,
+            asset.variants[0].sku,
+            asset.sha256,
+            visual_variant_count=len(asset.variants),
+        )
+        if not decision.verified:
             continue
         margin = response.matches[0].score
         if len(response.matches) > 1:

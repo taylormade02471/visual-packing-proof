@@ -6,8 +6,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_readme_reports_measured_evidence_and_limits() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    assert "54.277 ms" in readme
-    assert "92.86%" in readme
+    assert "42.073 ms" in readme
+    assert "97.14%" in readme
     assert ">99.9%" in readme
     assert "production target" in readme.lower()
     assert "/api/packing/verify" in readme

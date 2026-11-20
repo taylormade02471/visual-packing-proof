@@ -6,9 +6,9 @@ A live-review proof for the Rework brief **Visual Search and Automated Packing S
 
 The checked-in benchmark contains 71 products, 485 variants, and 70 unique visual assets. On 70 camera-style perturbed queries using a warm MobileNetV3 model and an in-memory normalized embedding index, the proof measured:
 
-- p95 search latency: **54.277 ms** (target: under 200 ms)
-- Recall@1: **75.71%**
-- Recall@5: **92.86%**
+- p95 search latency: **42.073 ms** (target: under 200 ms)
+- Recall@1: **85.71%**
+- Recall@5: **97.14%**
 - Rejected or corrupt catalog assets: **0**
 
 These are reproducible proof results, not production promises. The brief's **>99.9% SKU verification** and 10% conversion-lift figures remain production targets that require the client's labeled warehouse camera data, barcode coverage, traffic baseline, and acceptance thresholds. The verifier protects fulfillment precision by preferring deterministic barcode checks and routing uncertain visual cases to `HUMAN_REVIEW_HOLD` instead of guessing.

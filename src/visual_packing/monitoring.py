@@ -64,7 +64,8 @@ class ModelMonitor:
         latencies = [event.latency_ms for event in events]
         similarities = [event.centroid_similarity for event in events if event.centroid_similarity is not None]
         mean_similarity = float(np.mean(similarities)) if similarities else None
-        hold_count = sum(event.decision == "HUMAN_REVIEW_HOLD" for event in events)
+        decision_events = [event for event in events if event.decision is not None]
+        hold_count = sum(event.decision == "HUMAN_REVIEW_HOLD" for event in decision_events)
         return {
             "samples_tracked": len(events),
             "p50_latency_ms": round(float(np.percentile(latencies, 50)), 3),
@@ -72,7 +73,7 @@ class ModelMonitor:
             "low_confidence_count": sum(
                 event.top_score < self.low_confidence_threshold for event in events
             ),
-            "hold_rate": round(hold_count / len(events), 4),
+            "hold_rate": round(hold_count / len(decision_events), 4) if decision_events else 0.0,
             "mean_centroid_similarity": round(mean_similarity, 4) if mean_similarity is not None else None,
             "drift_alert": bool(mean_similarity is not None and mean_similarity < self.drift_similarity_floor),
         }

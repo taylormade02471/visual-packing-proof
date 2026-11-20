@@ -169,8 +169,7 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-08.jpg"
+    ]
   },
   {
     "asset_id": "0d095afa284a9c200a08edb1f054aa75005b2b8518917ba27ef12cf8718ebfa0",
@@ -938,8 +937,7 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-07.jpg"
+    ]
   },
   {
     "asset_id": "2182ba132820bed9acc5aa96aaa2a9818f47a029c30d664c952bfa94b24f92ee",
@@ -1442,163 +1440,6 @@
     ]
   },
   {
-    "asset_id": "415abbac1bb39f65b0f480b3c43115b7801c10dfdc541bf44cdbd180c61e62ea",
-    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/LIBRE-VANILLA_COUTURE_TYPE.png?v=1786202211",
-    "image_file": "images/415abbac1bb39f65b0f480b3c43115b7801c10dfdc541bf44cdbd180c61e62ea.jpg",
-    "product_ids": [
-      "libre-vanilla-couture-type"
-    ],
-    "product_names": [
-      "LIBRE VANILLA COUTURE"
-    ],
-    "categories": [
-      "Roll-on"
-    ],
-    "variants": [
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-2-OZ-BOSTON-ROUND",
-        "name": "1/2 oz Boston Round",
-        "dimensions_cm": [
-          3.0,
-          3.0,
-          9.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-BOSTON-ROUND",
-        "name": "1 oz Boston Round",
-        "dimensions_cm": [
-          4.0,
-          4.0,
-          10.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-ROLL-ON",
-        "name": "1 oz Roll On",
-        "dimensions_cm": [
-          3.0,
-          3.0,
-          11.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-AIR-FRESHENER",
-        "name": "Air Freshener",
-        "dimensions_cm": [
-          4.0,
-          4.0,
-          12.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-LOTION",
-        "name": "Body Lotion",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-MIST",
-        "name": "Body Mist",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          16.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-WASH",
-        "name": "Body Wash",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-MASSAGE-OIL",
-        "name": "Massage Oil",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          15.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-BUTTER",
-        "name": "Body Butter",
-        "dimensions_cm": [
-          9.0,
-          9.0,
-          7.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-COLOGNE-SPRAY",
-        "name": "Cologne Spray",
-        "dimensions_cm": [
-          5.0,
-          4.0,
-          13.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-SUGAR-SCRUB",
-        "name": "Sugar Scrub",
-        "dimensions_cm": [
-          9.0,
-          9.0,
-          8.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-GIFT-SET",
-        "name": "Gift Set",
-        "dimensions_cm": [
-          24.0,
-          18.0,
-          10.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-2-OZ-BOSTON-ROUND",
-        "name": "2 oz Boston Round",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          12.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-3-OZ-BOSTON-ROUND",
-        "name": "1/3 oz Boston Round",
-        "dimensions_cm": [
-          3.0,
-          3.0,
-          8.0
-        ],
-        "fragile": true
-      }
-    ],
-    "sample_url": "/static/samples/sample-09.jpg"
-  },
-  {
     "asset_id": "416e3cc77890f57766726c72dea6f408853458adeb3b22afeaaa1c008030ef69",
     "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/VALAYA-EXCLUSIF_TYPE.png?v=1786202306",
     "image_file": "images/416e3cc77890f57766726c72dea6f408853458adeb3b22afeaaa1c008030ef69.jpg",
@@ -1752,8 +1593,7 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-03.jpg"
+    ]
   },
   {
     "asset_id": "4286f0177b6b2baf3a9b28f05990b3a740753ba7092e63978e6c59fd8bc91a64",
@@ -1836,6 +1676,248 @@
           5.0,
           4.0,
           13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "asset_id": "4876c3c06f607b6507599b5f3d8dc150a995faa51ba8e181bb702a3c52d3ad2b",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/LIBRE-VANILLA_COUTURE_TYPE.png?v=1786202211",
+    "image_file": "images/4876c3c06f607b6507599b5f3d8dc150a995faa51ba8e181bb702a3c52d3ad2b.jpg",
+    "product_ids": [
+      "libre-vanilla-couture-type"
+    ],
+    "product_names": [
+      "LIBRE VANILLA COUTURE"
+    ],
+    "categories": [
+      "Roll-on"
+    ],
+    "variants": [
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "asset_id": "49df89e3a1486bc49d21ca7cdbee400c523dba0cc36eec1d8d38a89c1313fb1d",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/1-oz-roll-on-c-love-primary-draft-v1.png?v=1786304262",
+    "image_file": "images/49df89e3a1486bc49d21ca7cdbee400c523dba0cc36eec1d8d38a89c1313fb1d.jpg",
+    "product_ids": [
+      "1-oz-roll-on-c-love"
+    ],
+    "product_names": [
+      "C Love"
+    ],
+    "categories": [
+      "Roll-on"
+    ],
+    "variants": [
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
         ],
         "fragile": true
       }
@@ -2290,7 +2372,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-11.jpg"
   },
   {
     "asset_id": "6044fb231d6dba4796d323aba8ded1b9989bb1e1a64466cb55426508b2fa4c17",
@@ -3090,7 +3173,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-12.jpg"
   },
   {
     "asset_id": "845214973f35d1b109b3a5c9fa9b48035ded0cb2b77efaf5fe66b03118106fc7",
@@ -3116,7 +3200,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-09.jpg"
   },
   {
     "asset_id": "9262f0a8a5bf167ff2edfdc73c827758199f19fdd78e994e4a1dec7be747bd89",
@@ -3139,92 +3224,6 @@
           9.0,
           9.0,
           11.0
-        ],
-        "fragile": true
-      }
-    ]
-  },
-  {
-    "asset_id": "92afe81245588ea63e89f164df24bc7e8c1034c8b42c731c76d9d8c65d3085f5",
-    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/miu-miu-fleur-de-lait-primary-draft-v1.png?v=1786304355",
-    "image_file": "images/92afe81245588ea63e89f164df24bc7e8c1034c8b42c731c76d9d8c65d3085f5.jpg",
-    "product_ids": [
-      "miu-miu-fleur-de-lait"
-    ],
-    "product_names": [
-      "Miu Miu Fleur De Lait"
-    ],
-    "categories": [
-      "Roll-on"
-    ],
-    "variants": [
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-ROLL-ON",
-        "name": "1 oz Roll On",
-        "dimensions_cm": [
-          3.0,
-          3.0,
-          11.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-BOSTON-ROUND",
-        "name": "1 oz Boston Round",
-        "dimensions_cm": [
-          4.0,
-          4.0,
-          10.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-COLOGNE-SPRAY",
-        "name": "Cologne Spray",
-        "dimensions_cm": [
-          5.0,
-          4.0,
-          13.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-MIST",
-        "name": "Body Mist",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          16.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-WASH",
-        "name": "Body Wash",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-MASSAGE-OIL",
-        "name": "Massage Oil",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          15.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-LOTION",
-        "name": "Lotion",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
         ],
         "fragile": true
       }
@@ -3340,7 +3339,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-06.jpg"
   },
   {
     "asset_id": "96105903ace0749a0ed2a9e94e18bd6a4e5935a5d966b839004e2f7223e024bf",
@@ -3426,8 +3426,7 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-12.jpg"
+    ]
   },
   {
     "asset_id": "99cec2de9f749a9a2dc0896a4a4af2c0f2c9142d72574b08239a1957ab6d9ff4",
@@ -3454,7 +3453,7 @@
         "fragile": true
       }
     ],
-    "sample_url": "/static/samples/sample-10.jpg"
+    "sample_url": "/static/samples/sample-04.jpg"
   },
   {
     "asset_id": "9af4babb0adfc7074297287814e225b5a56f8d238d13085a9d253d38bb525fb2",
@@ -4050,7 +4049,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-10.jpg"
   },
   {
     "asset_id": "afd572250ae28693a8b11a18a4da083a2a76c1641740febd5b980a058326abbb",
@@ -4206,8 +4206,7 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-05.jpg"
+    ]
   },
   {
     "asset_id": "b51a92d986276f77d5a82d41bd2ab17f2f51b00c941f38ed1d799a0e1e63fb18",
@@ -4718,7 +4717,7 @@
         "fragile": true
       }
     ],
-    "sample_url": "/static/samples/sample-04.jpg"
+    "sample_url": "/static/samples/sample-03.jpg"
   },
   {
     "asset_id": "bf51fd12d98153d8a3ad3d3c16b9a4132f39b4ba672f332c49bf972768d6afb0",
@@ -5248,93 +5247,6 @@
         ],
         "fragile": true
       }
-    ],
-    "sample_url": "/static/samples/sample-06.jpg"
-  },
-  {
-    "asset_id": "cc7e0fce96a40067f9d782af24fcd922c4d5c0952e836e536f591c68bd98aceb",
-    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/1-oz-roll-on-c-love-primary-draft-v1.png?v=1786304262",
-    "image_file": "images/cc7e0fce96a40067f9d782af24fcd922c4d5c0952e836e536f591c68bd98aceb.jpg",
-    "product_ids": [
-      "1-oz-roll-on-c-love"
-    ],
-    "product_names": [
-      "C Love"
-    ],
-    "categories": [
-      "Roll-on"
-    ],
-    "variants": [
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-ROLL-ON",
-        "name": "1 oz Roll On",
-        "dimensions_cm": [
-          3.0,
-          3.0,
-          11.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-BOSTON-ROUND",
-        "name": "1 oz Boston Round",
-        "dimensions_cm": [
-          4.0,
-          4.0,
-          10.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-MIST",
-        "name": "Body Mist",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          16.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-WASH",
-        "name": "Body Wash",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-MASSAGE-OIL",
-        "name": "Massage Oil",
-        "dimensions_cm": [
-          5.0,
-          5.0,
-          15.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-COLOGNE-SPRAY",
-        "name": "Cologne Spray",
-        "dimensions_cm": [
-          5.0,
-          4.0,
-          13.0
-        ],
-        "fragile": true
-      },
-      {
-        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-LOTION",
-        "name": "Body Lotion",
-        "dimensions_cm": [
-          6.0,
-          6.0,
-          18.0
-        ],
-        "fragile": true
-      }
     ]
   },
   {
@@ -5559,7 +5471,8 @@
         ],
         "fragile": true
       }
-    ]
+    ],
+    "sample_url": "/static/samples/sample-07.jpg"
   },
   {
     "asset_id": "e52f31035337307888a0ed6d8ded6b70ce408fd2500a679b128339ebe21e4503",
@@ -5697,6 +5610,93 @@
         ],
         "fragile": true
       }
+    ],
+    "sample_url": "/static/samples/sample-08.jpg"
+  },
+  {
+    "asset_id": "f30579976a08805ec04c37d163b99eb310886c5b43ac31b72011db54f631c472",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/miu-miu-fleur-de-lait-primary-draft-v1.png?v=1786304355",
+    "image_file": "images/f30579976a08805ec04c37d163b99eb310886c5b43ac31b72011db54f631c472.jpg",
+    "product_ids": [
+      "miu-miu-fleur-de-lait"
+    ],
+    "product_names": [
+      "Miu Miu Fleur De Lait"
+    ],
+    "categories": [
+      "Roll-on"
+    ],
+    "variants": [
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
     ]
   },
   {
@@ -5810,7 +5810,7 @@
         "fragile": true
       }
     ],
-    "sample_url": "/static/samples/sample-11.jpg"
+    "sample_url": "/static/samples/sample-05.jpg"
   },
   {
     "asset_id": "f6a6f9f5fdd3cf2bb843c01bb10eb7e9da902ee817de307cbff32d4b5fc891bd",

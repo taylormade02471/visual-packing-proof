@@ -22,6 +22,7 @@ def verify_item(
     expected_asset_id: str,
     *,
     barcode_sku: str | None = None,
+    visual_variant_count: int = 1,
     score_threshold: float = 0.85,
     margin_threshold: float = 0.05,
 ) -> VerificationDecision:
@@ -54,7 +55,18 @@ def verify_item(
     top = search.matches[0]
     second_score = search.matches[1].score if len(search.matches) > 1 else 0.0
     margin = top.score - second_score
-    if top.asset_id != expected_asset_id and top.score >= score_threshold:
+    if top.score < score_threshold or margin < margin_threshold:
+        return VerificationDecision(
+            False,
+            "HUMAN_REVIEW_HOLD",
+            "SAFETY_GATE",
+            top.score,
+            (
+                f"Visual evidence is uncertain: score {top.score:.3f}, margin {margin:.3f}. "
+                "The item was not auto-approved."
+            ),
+        )
+    if top.asset_id != expected_asset_id:
         return VerificationDecision(
             False,
             "REJECT_MISMATCH",
@@ -62,7 +74,18 @@ def verify_item(
             top.score,
             f"Top visual asset {top.asset_id} does not match expected asset {expected_asset_id}.",
         )
-    if top.asset_id == expected_asset_id and top.score >= score_threshold and margin >= margin_threshold:
+    if visual_variant_count > 1:
+        return VerificationDecision(
+            False,
+            "HUMAN_REVIEW_HOLD",
+            "VARIANT_EVIDENCE_REQUIRED",
+            top.score,
+            (
+                f"The matched image represents multiple SKU variants ({visual_variant_count}). "
+                "A matching barcode or variant-specific evidence is required."
+            ),
+        )
+    if top.asset_id == expected_asset_id:
         return VerificationDecision(
             True,
             "PASS_PACK",
@@ -70,16 +93,7 @@ def verify_item(
             top.score,
             f"Expected asset ranked first with a {margin:.3f} confidence margin.",
         )
-    return VerificationDecision(
-        False,
-        "HUMAN_REVIEW_HOLD",
-        "SAFETY_GATE",
-        top.score,
-        (
-            f"Visual evidence is uncertain: score {top.score:.3f}, margin {margin:.3f}. "
-            "The item was not auto-approved."
-        ),
-    )
+    raise AssertionError("unreachable verification state")
 
 
 @dataclass(frozen=True)

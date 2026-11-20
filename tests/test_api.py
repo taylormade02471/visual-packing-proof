@@ -56,6 +56,13 @@ def test_monitor_is_bounded_and_reports_low_confidence_hold_and_drift() -> None:
     assert summary["drift_alert"] is True
 
 
+def test_hold_rate_uses_only_decision_events() -> None:
+    monitor = ModelMonitor(window_size=10)
+    monitor.record(10.0, 0.9, None, None)
+    monitor.record(12.0, 0.7, None, None, decision="HUMAN_REVIEW_HOLD")
+    assert monitor.summary()["hold_rate"] == 1.0
+
+
 def test_public_page_health_catalog_and_evidence() -> None:
     with TestClient(create_app(make_services())) as client:
         assert "Visual Search" in client.get("/").text
@@ -98,9 +105,23 @@ def test_packing_route_rejects_wrong_barcode_and_unknown_sku() -> None:
         )
         assert result.status_code == 200
         assert result.json()["verification"]["decision"] == "REJECT_MISMATCH"
+        assert result.json()["recommended_carton"] is None
+        assert result.json()["search"]["matches"]
         missing = client.post(
             "/api/packing/verify",
             data={"expected_sku": "DOES-NOT-EXIST"},
             files={"file": ("red.png", png((255, 0, 0)), "image/png")},
         )
         assert missing.status_code == 404
+
+
+def test_empty_index_returns_bounded_service_error() -> None:
+    services = make_services()
+    services.engine.assets = []
+    services.engine.embeddings = torch.empty((0, 0))
+    with TestClient(create_app(services)) as client:
+        result = client.post(
+            "/api/search", files={"file": ("red.png", png((255, 0, 0)), "image/png")}
+        )
+        assert result.status_code == 503
+        assert result.json()["detail"] == "Visual search index is unavailable."
