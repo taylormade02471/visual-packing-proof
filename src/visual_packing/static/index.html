@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Live PyTorch visual search and warehouse packing proof using the Stone Wick catalog.">
+  <title>Stone Wick VisionOps</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="/"><span class="mark">S</span><span>STONE WICK <small>VISIONOPS</small></span></a>
+    <div class="live"><span></span> LIVE CLOUD PROOF</div>
+  </header>
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PYTORCH · FASTAPI · COMPUTER VISION</p>
+        <h1>From product photo<br>to <em>verified packout.</em></h1>
+        <p class="lede">A working visual-search and warehouse-QA proof built on 71 Stone Wick products and 485 fragrance, candle, and body-care variants.</p>
+        <div class="hero-actions"><a href="#demo" class="primary">Run the proof</a><a href="/docs" class="ghost">Open API docs</a></div>
+      </div>
+      <aside class="metric-grid">
+        <div><span id="p95">—</span><small>P95 HOT-PATH LATENCY</small></div>
+        <div><span id="recall">—</span><small>RECALL@5 · PROOF SET</small></div>
+        <div><span id="products">71</span><small>CATALOG PRODUCTS</small></div>
+        <div><span>485</span><small>SKU VARIANTS</small></div>
+      </aside>
+    </section>
+
+    <section class="trust-strip">
+      <span>01 Labeled dataset</span><span>02 Visual retrieval</span><span>03 Packing safety gate</span><span>04 Drift monitoring</span>
+    </section>
+
+    <section id="demo" class="workspace">
+      <div class="section-head"><div><p class="eyebrow">INTERACTIVE REVIEWER DEMO</p><h2>Search it. Verify it. Pack it.</h2></div><p>Select a real sample or upload a product image. The same image can be checked against an expected SKU and a scanned barcode.</p></div>
+      <div id="samples" class="samples" aria-live="polite"></div>
+      <div class="controls">
+        <label class="upload">Upload product photo<input id="file" type="file" accept="image/*"></label>
+        <label>Expected SKU<select id="sku"></select></label>
+        <label>Scanned barcode <span>(optional)</span><input id="barcode" placeholder="Try a wrong SKU"></label>
+        <button id="run" class="primary">Run search + packing QA</button>
+      </div>
+      <p id="status" class="status" role="status">Choose a sample to begin.</p>
+      <div class="results">
+        <article><div class="result-title"><h3>Visual Search</h3><span id="latency">WAITING</span></div><div id="searchResult" class="empty">Ranked catalog matches will appear here.</div></article>
+        <article><div class="result-title"><h3>Packing Decision</h3><span id="decision">WAITING</span></div><div id="packingResult" class="empty">Verification and carton selection will appear here.</div></article>
+      </div>
+    </section>
+
+    <section class="evidence">
+      <div><p class="eyebrow">MEASURED, NOT INVENTED</p><h2>Evidence with the limits left on.</h2><p>The latency and recall numbers come from camera-style perturbations of the owner’s catalog. They demonstrate the serving path; they do not claim production warehouse accuracy or a conversion lift.</p></div>
+      <div class="monitor"><h3>Live monitor</h3><dl><div><dt>Samples</dt><dd id="mSamples">0</dd></div><div><dt>P95 latency</dt><dd id="mLatency">0 ms</dd></div><div><dt>Low confidence</dt><dd id="mLow">0</dd></div><div><dt>Hold rate</dt><dd id="mHold">0%</dd></div><div><dt>Drift</dt><dd id="mDrift">CLEAR</dd></div></dl></div>
+    </section>
+  </main>
+  <footer><span>Stone Wick Visual Search & Automated Packing proof</span><span>99.9% SKU accuracy and +10% conversion remain client production targets.</span></footer>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>
