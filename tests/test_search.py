@@ -147,3 +147,49 @@ def test_build_artifacts_writes_manifest_splits_embeddings_and_samples(tmp_path)
     assert (output / "embeddings.pt").is_file()
     assert (output / "benchmark_report.json").is_file()
     assert len(list(samples.glob("*.jpg"))) == 3
+
+
+def test_build_artifacts_only_publishes_samples_that_self_match(tmp_path) -> None:
+    import json
+
+    from visual_packing.catalog import CatalogItem
+
+    class MisreadsNormalizedRed(ColorEncoder):
+        def encode(self, payload: bytes) -> torch.Tensor:
+            with Image.open(io.BytesIO(payload)) as image:
+                vector = torch.tensor(
+                    image.convert("RGB").resize((1, 1)).getpixel((0, 0)), dtype=torch.float32
+                )
+                if image.format == "JPEG" and vector[0] > vector[1]:
+                    return torch.tensor([0.0, 255.0, 0.0])
+                return vector
+
+    products = [
+        CatalogItem(
+            product_id=color,
+            name=color.title(),
+            category="Test",
+            image_url=f"https://example/{color}.png",
+            variants=(
+                CatalogVariant(
+                    sku=f"SKU-{color}", name="Standard", dimensions_cm=(4, 4, 10)
+                ),
+            ),
+        )
+        for color in ("red", "green", "blue")
+    ]
+    payloads = {
+        f"https://example/{color}.png": image_bytes(rgb)
+        for color, rgb in (
+            ("red", (255, 0, 0)),
+            ("green", (0, 255, 0)),
+            ("blue", (0, 0, 255)),
+        )
+    }
+    output = tmp_path / "artifacts"
+    samples = tmp_path / "samples"
+    build_artifacts(products, payloads, output, samples, MisreadsNormalizedRed(), perturb=False)
+    records = json.loads((output / "catalog.json").read_text(encoding="utf-8"))
+    published = {record["product_ids"][0] for record in records if record.get("sample_url")}
+    assert published == {"green", "blue"}
+    assert len(list(samples.glob("*.jpg"))) == 2
