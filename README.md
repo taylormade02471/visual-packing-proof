@@ -5,7 +5,7 @@ A live-review proof for the Rework brief **Visual Search and Automated Packing S
 ## Live proof
 
 - **Live Cloud Run demo:** https://visual-packing-proof-915634103558.us-central1.run.app
-- **75-second end-to-end screen recording:** [visual-packing-proof-demo.mp4](visual-packing-proof-demo.mp4)
+- **Submitted proof video (YouTube, 1:23):** [Proof Demo Video](https://youtu.be/Z0Q47TKUG5A)
 - **Cloud project:** `project-5b166851-62cd-439e-a82`
 
 ## Measured proof evidence
