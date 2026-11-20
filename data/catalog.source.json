@@ -1,0 +1,5420 @@
+[
+  {
+    "product_id": "a-goodnight-kiss",
+    "name": "A Goodnight Kiss",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/a-goodnight-kiss-primary-draft-v1.png?v=1786304342",
+    "variants": [
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-A-GOODNIGHT-KISS-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "afternoon-swim-lv",
+    "name": "Afternoon Swim LV",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/afternoon-swim-lv-primary-draft-v1.png?v=1786304218",
+    "variants": [
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-AFTERNOON-SWIM-LV-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "aqua-universalis",
+    "name": "Aqua Universalis",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/aqua-universalis-primary-taylormade_b523bc64-1d73-40e5-a466-3ec78baae631.png?v=1786304213",
+    "variants": [
+      {
+        "sku": "SW-AQUA-UNIVERSALIS-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "b-rouge",
+    "name": "B Rouge",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/b-rouge-primary-draft-v1.png?v=1786304201",
+    "variants": [
+      {
+        "sku": "SW-B-ROUGE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-B-ROUGE-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "b-her",
+    "name": "B. Her",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/b-her-primary-taylormade.png?v=1786304311",
+    "variants": [
+      {
+        "sku": "SW-B-HER-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "black-amber-lavender",
+    "name": "Black Amber Lavender",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/black-amber-lavender-primary-draft-v1.png?v=1786304290",
+    "variants": [
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-AMBER-LAVENDER-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "black-diamond",
+    "name": "Black Diamond",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/black-diamond-primary-draft-v1.png?v=1786304306",
+    "variants": [
+      {
+        "sku": "SW-BLACK-DIAMOND-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-DIAMOND-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "black-opium",
+    "name": "Black Opium",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/black-opium-primary-draft-v1.png?v=1786304282",
+    "variants": [
+      {
+        "sku": "SW-BLACK-OPIUM-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-OPIUM-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "black-saffron-by-byredo-type",
+    "name": "Black Saffron By Byredo",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/Black-Saffron_By_Byredo.png?v=1786202632",
+    "variants": [
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLACK-SAFFRON-BY-BYREDO-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "blue-agave-sugar",
+    "name": "Blue Agave Sugar",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/blue-agave-sugar-primary-draft-v1.png?v=1786304303",
+    "variants": [
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-BLUE-AGAVE-SUGAR-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "body-ceo-no-5-madam-edp-for-women-35-ml-display-box-20-pcs",
+    "name": "Body Ceo No.5 Madam Edp For Women 35 Ml (Display Box 20 Pcs)",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/c49051db68549bcad4907b97166d175b363b89a0a61e51ac8173e4423727e9e9.jpg?v=1786179791",
+    "variants": [
+      {
+        "sku": "SW-BODY-CEO-NO-5-MADAM-EDP-FOR-WOMEN-35-ML-DISPLAY-BOX-20-PCS-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "1-oz-roll-on-c-love",
+    "name": "C Love",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/1-oz-roll-on-c-love-primary-draft-v1.png?v=1786304262",
+    "variants": [
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-1-OZ-ROLL-ON-C-LOVE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "centaurus",
+    "name": "Centaurus",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/centaurus-primary-draft-v1.png?v=1786304235",
+    "variants": [
+      {
+        "sku": "SW-CENTAURUS-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CENTAURUS-COLOGNE-SPRAY6",
+        "name": "Cologne Spray6",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "chanel-bleu-exclusif-type",
+    "name": "CHANEL BLEU EXCLUSIF",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/CHANEL-BLEU_EXCLUSIF_TYPE.png?v=1786202063",
+    "variants": [
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHANEL-BLEU-EXCLUSIF-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "checkmate-by-mind-games-type",
+    "name": "Checkmate By Mind Games",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/Checkmate-By_Mind_Games.png?v=1786202692",
+    "variants": [
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-CHECKMATE-BY-MIND-GAMES-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "coco-cream-by-boy-smells-type",
+    "name": "COCO CREAM BY BOY SMELLS",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/COCO-CREAM_BY_BOY_SMELLS_TYPE.png?v=1786202454",
+    "variants": [
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCO-CREAM-BY-BOY-SMELLS-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "coconut-milk",
+    "name": "Coconut Milk",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/coconut-milk-primary-draft-v1.png?v=1786304173",
+    "variants": [
+      {
+        "sku": "SW-COCONUT-MILK-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-COCONUT-MILK-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "daspar-black-women-perfume-with-phe-ro-mo-nes-2-02-oz",
+    "name": "Daspar Black Women Perfume with Phe.Ro.Mo.Nes 2.02 oz",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/d0e3f6a62897f143abd947d3d96f49f87c28b8a90f806c8b739fd016fed88f72.jpg?v=1786179797",
+    "variants": [
+      {
+        "sku": "SW-DASPAR-BLACK-WOMEN-PERFUME-WITH-PHE-RO-MO-NES-2-02-OZ-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "daspar-crystal-women-perfume-with-phe-ro-mo-nes-2-02-oz",
+    "name": "Daspar Crystal Women Perfume with Phe.Ro.Mo.Nes 2.02 oz",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/e82c79973e4ff72e89573a9a75aaa5cbb4ba5f58ec1ed045e0619080e027300e.jpg?v=1786179793",
+    "variants": [
+      {
+        "sku": "SW-DASPAR-CRYSTAL-WOMEN-PERFUME-WITH-PHE-RO-MO-NES-2-02-OZ-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "daspar-damask-women-perfume-with-phe-ro-mo-nes-2-02-oz",
+    "name": "Daspar Damask Women Perfume with Phe.Ro.Mo.Nes 2.02 oz",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/d08da77dc24458eaed3261de6d416ca55de6db3c984b38aadecd8f8260814b1d.jpg?v=1786179789",
+    "variants": [
+      {
+        "sku": "SW-DASPAR-DAMASK-WOMEN-PERFUME-WITH-PHE-RO-MO-NES-2-02-OZ-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "daspar-g-2-unisex-perfume-with-phe-ro-mo-nes-2-02-oz",
+    "name": "Daspar G. 2 Unisex Perfume with Phe.Ro.Mo.Nes 2.02 oz",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/a00ad04c8e9c4e230bbf19e4ff229207498a4e7b54860bd11f12151fab03373a.jpg?v=1786179786",
+    "variants": [
+      {
+        "sku": "SW-DASPAR-G-2-UNISEX-PERFUME-WITH-PHE-RO-MO-NES-2-02-OZ-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "daspar-li-g-h-t-b-women-perfume-with-phe-ro-mo-nes-2-02-oz",
+    "name": "Daspar Li.G.H.T B Women Perfume with Phe.Ro.Mo.Nes 2.02 oz",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/1c69d0c1f09e0c128672794bf187bc91faa30bd0478c17f38d9a82aa88ef4fd6.jpg?v=1786179784",
+    "variants": [
+      {
+        "sku": "SW-DASPAR-LI-G-H-T-B-WOMEN-PERFUME-WITH-PHE-RO-MO-NES-2-02-OZ-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "dg-light-blue",
+    "name": "DG Light Blue",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/dg-light-blue-primary-draft-v1.png?v=1786304178",
+    "variants": [
+      {
+        "sku": "SW-DG-LIGHT-BLUE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DG-LIGHT-BLUE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "dubai-amethyst",
+    "name": "Dubai Amethyst",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/dubai-amethyst-type-106-primary-draft-v1_453e3a4b-e7c6-4120-98fc-2869da1c8f90.png?v=1786304196",
+    "variants": [
+      {
+        "sku": "SW-DUBAI-AMETHYST-1-3-OZ-ROLL-ON",
+        "name": "1/3 oz Roll On",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "dubai-oud",
+    "name": "Dubai Oud",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/dubai-oud-primary-draft-v1.png?v=1786304226",
+    "variants": [
+      {
+        "sku": "SW-DUBAI-OUD-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-OUD-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "dubai-ruby",
+    "name": "Dubai Ruby",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/dubai-ruby-primary-draft-v1.png?v=1786304192",
+    "variants": [
+      {
+        "sku": "SW-DUBAI-RUBY-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-DUBAI-RUBY-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "24k-egyptian-musk",
+    "name": "Egyptian Musk",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/24k-egyptian-musk-primary-draft-v1.png?v=1786304169",
+    "variants": [
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-24K-EGYPTIAN-MUSK-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "eladaria-by-creed-type",
+    "name": "ELADARIA BY CREED",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/ELADARIA-BY_CREED_TYPE.png?v=1786202279",
+    "variants": [
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ELADARIA-BY-CREED-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fahrenheit-absolu-type",
+    "name": "FAHRENHEIT ABSOLU",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/FAHRENHEIT-ABSOLU_TYPE.png?v=1786202097",
+    "variants": [
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FAHRENHEIT-ABSOLU-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fc-g-for-women-sexy-secret-gift-set-100-ml-body-care",
+    "name": "Fc G For Women Sexy Secret Gift Set 100 Ml + Body Care",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/2f053dfae95700d2f0489e6c0236c968f47fc2e4579000427321909d6da812f8.jpg?v=1786179780",
+    "variants": [
+      {
+        "sku": "SW-FC-G-FOR-WOMEN-SEXY-SECRET-GIFT-SET-100-ML-BODY-CARE-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fc-mon-amour-paris-3-06-oz-edp-for-women-luminous-floral",
+    "name": "Fc Mon Amour Paris 3.06 oz Edp For Women \u2013 Luminous Floral",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/b69821902ff186c594263abe1225c5fef4d8e5ec66496a49b2b477b632095484.jpg?v=1786179794",
+    "variants": [
+      {
+        "sku": "SW-FC-MON-AMOUR-PARIS-3-06-OZ-EDP-FOR-WOMEN-LUMINOUS-FLORAL-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fc-player-noir-men-3-4-oz-100-ml-edp-warm-spicy-woody",
+    "name": "Fc Player Noir Men 3.4 oz (100 Ml) Edp \u2013 Warm Spicy Woody",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/229b8d304c42ab99f5ae033405b6214f6063b6e9feabb022362a3ac58bd24ecd.jpg?v=1786179798",
+    "variants": [
+      {
+        "sku": "SW-FC-PLAYER-NOIR-MEN-3-4-OZ-100-ML-EDP-WARM-SPICY-WOODY-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fc-valentine-milano-3-4-oz-edp-for-women-modern-floral",
+    "name": "Fc Valentine Milano 3.4 oz Edp For Women \u2013 Modern Floral",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/2c76ccdd09855be48755e9171312bacb7ce844299abc204eda8a52f4c54d4b90.jpg?v=1786179787",
+    "variants": [
+      {
+        "sku": "SW-FC-VALENTINE-MILANO-3-4-OZ-EDP-FOR-WOMEN-MODERN-FLORAL-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "fc-valentine-milano-3-4-oz-edt-for-men-modern-woody-aroma",
+    "name": "Fc Valentine Milano 3.4 oz Edt For Men \u2013 Modern Woody Aroma",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/a1f428dbc340bfff7bd041006e8423ccc74b513d091aab00ec0896d85cbe7878.jpg?v=1786179795",
+    "variants": [
+      {
+        "sku": "SW-FC-VALENTINE-MILANO-3-4-OZ-EDT-FOR-MEN-MODERN-WOODY-AROMA-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "forever-wanted-elixir",
+    "name": "Forever Wanted Elixir",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/forever-wanted-elixir-primary-draft-v1.png?v=1786304274",
+    "variants": [
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FOREVER-WANTED-ELIXIR-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "french-defense",
+    "name": "French Defense",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/french-defense-primary-draft-v1.png?v=1786304245",
+    "variants": [
+      {
+        "sku": "SW-FRENCH-DEFENSE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-FRENCH-DEFENSE-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "gentlemen-society-extreme",
+    "name": "Gentlemen Society Extreme",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/gentlemen-society-extreme-primary-draft-v1.png?v=1786304270",
+    "variants": [
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GENTLEMEN-SOCIETY-EXTREME-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "good-girl-type599l",
+    "name": "Good Girl",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/good-girl-primary-taylormade-v2.png?v=1786304286",
+    "variants": [
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GOOD-GIRL-TYPE599L-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "grand-master",
+    "name": "Grand Master",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/grand-master-primary-draft-v1.png?v=1786304249",
+    "variants": [
+      {
+        "sku": "SW-GRAND-MASTER-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-GRAND-MASTER-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "lemon-rose-water",
+    "name": "Lemon Rose Water",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/lemon-rose-water-primary-draft-v1.png?v=1786304299",
+    "variants": [
+      {
+        "sku": "SW-LEMON-ROSE-WATER-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LEMON-ROSE-WATER-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "libre-berry-crush",
+    "name": "Libre Berry Crush",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/libre-berry-crush-primary-draft-v1.png?v=1786304351",
+    "variants": [
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-BERRY-CRUSH-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "libre-vanilla-couture-type",
+    "name": "LIBRE VANILLA COUTURE",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/LIBRE-VANILLA_COUTURE_TYPE.png?v=1786202211",
+    "variants": [
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIBRE-VANILLA-COUTURE-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "light-blue",
+    "name": "Light Blue",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/light-blue-primary-draft-v1.png?v=1786304209",
+    "variants": [
+      {
+        "sku": "SW-LIGHT-BLUE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-LIGHT-BLUE-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "miami-nectar-type",
+    "name": "MIAMI NECTAR",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/MIAMI-NECTAR_TYPE.png?v=1786202417",
+    "variants": [
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIAMI-NECTAR-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "midnight-citron-crush",
+    "name": "Midnight Citron Crush",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/midnight-citron-crush-primary-draft-v1.png?v=1786304338",
+    "variants": [
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIDNIGHT-CITRON-CRUSH-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "miu-miu-fleur-de-lait",
+    "name": "Miu Miu Fleur De Lait",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/miu-miu-fleur-de-lait-primary-draft-v1.png?v=1786304355",
+    "variants": [
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MIU-MIU-FLEUR-DE-LAIT-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "most-wanted",
+    "name": "Most Wanted",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/most-wanted-primary-draft-v1.png?v=1786304257",
+    "variants": [
+      {
+        "sku": "SW-MOST-WANTED-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MOST-WANTED-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "mrs-smith-by-phlur-type",
+    "name": "Mrs Smith By Phlur",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/Mrs-Smith_By_Phlur.png?v=1786202571",
+    "variants": [
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-MRS-SMITH-BY-PHLUR-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "one-and-only-by-gissah-type",
+    "name": "ONE AND ONLY BY GISSAH",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/ONE-AND_ONLY_BY_GISSAH_TYPE.png?v=1786202174",
+    "variants": [
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ONE-AND-ONLY-BY-GISSAH-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "p-hilton-type-104",
+    "name": "P Hilton",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/p-hilton-type-104-primary-draft-v1.png?v=1786304183",
+    "variants": [
+      {
+        "sku": "SW-P-HILTON-TYPE-104-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-P-HILTON-TYPE-104-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "passionate-kisses",
+    "name": "Passionate Kisses",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/passionate-kisses-primary-draft-v1.png?v=1786304187",
+    "variants": [
+      {
+        "sku": "SW-PASSIONATE-KISSES-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PASSIONATE-KISSES-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "peach-skin-by-plur-type",
+    "name": "Peach Skin By Plur",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/Peach-Skin_By_Plur.png?v=1786202488",
+    "variants": [
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PEACH-SKIN-BY-PLUR-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "perry-ellis-acqua",
+    "name": "PERRY ELLIS ACQUA",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/perry-ellis-acqua-primary-taylormade-v2.png?v=1786304230",
+    "variants": [
+      {
+        "sku": "SW-PERRY-ELLIS-ACQUA-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "pink-amber-and-vanilla",
+    "name": "Pink Amber and Vanilla",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/pink-amber-and-vanilla-primary-draft-v1.png?v=1786304294",
+    "variants": [
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-PINK-AMBER-AND-VANILLA-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "queening",
+    "name": "Queening",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/queening-primary-draft-v1.png?v=1786304241",
+    "variants": [
+      {
+        "sku": "SW-QUEENING-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-QUEENING-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "royal-tonka",
+    "name": "Royal Tonka",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/royal-tonka-primary-draft-v1.png?v=1786304315",
+    "variants": [
+      {
+        "sku": "SW-ROYAL-TONKA-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-ROYAL-TONKA-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "sexy-amber",
+    "name": "Sexy Amber",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/sexy-amber-primary-draft-v1.png?v=1786304266",
+    "variants": [
+      {
+        "sku": "SW-SEXY-AMBER-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SEXY-AMBER-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "straight-to-heaven",
+    "name": "Straight to Heaven",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/straight-to-heaven-primary-draft-v1.png?v=1786304253",
+    "variants": [
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAIGHT-TO-HEAVEN-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "strawberry-letter-type",
+    "name": "STRAWBERRY LETTER",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/STRAWBERRY-LETTER_TYPE.png?v=1786202367",
+    "variants": [
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-LETTER-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "strawberry-sorbet",
+    "name": "Strawberry Sorbet",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/strawberry-sorbet-primary-draft-v1.png?v=1786304321",
+    "variants": [
+      {
+        "sku": "SW-STRAWBERRY-SORBET-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRAWBERRY-SORBET-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "stronger-with-you-type",
+    "name": "STRONGER WITH YOU",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/STRONGER-WITH_YOU_TYPE.png?v=1786202014",
+    "variants": [
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "stronger-with-you-intensley-type",
+    "name": "STRONGER WITH YOU INTENSLEY",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/STRONGER-WITH_YOU_INTENSLEY_TYPE.png?v=1786201983",
+    "variants": [
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-STRONGER-WITH-YOU-INTENSLEY-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "superior-white-amber-no-returns",
+    "name": "Superior White Amber",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/superior-white-amber-no-returns-primary-draft-v1.png?v=1786304205",
+    "variants": [
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-SUPERIOR-WHITE-AMBER-NO-RETURNS-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "tiger-orchid-and-wild-cherry",
+    "name": "Tiger Orchid and Wild Cherry",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/tiger-orchid-and-wild-cherry-primary-draft-v1.png?v=1786304333",
+    "variants": [
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-TIGER-ORCHID-AND-WILD-CHERRY-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "tuxedo",
+    "name": "Tuxedo",
+    "category": "Single item",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/tuxedo-primary-taylormade-v2.png?v=1786304222",
+    "variants": [
+      {
+        "sku": "SW-TUXEDO-DEFAULT-TITLE",
+        "name": "Default Title",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          11.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "uomo-coral-fantasy",
+    "name": "Uomo Coral Fantasy",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/uomo-coral-fantasy-primary-draft-v1.png?v=1786304278",
+    "variants": [
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-UOMO-CORAL-FANTASY-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "valaya-exclusif-type",
+    "name": "VALAYA EXCLUSIF",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/VALAYA-EXCLUSIF_TYPE.png?v=1786202306",
+    "variants": [
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-VALAYA-EXCLUSIF-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "white-sands",
+    "name": "White Sands",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/white-sands-primary-draft-v1.png?v=1786304329",
+    "variants": [
+      {
+        "sku": "SW-WHITE-SANDS-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "white-sands-2",
+    "name": "White Sands",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/white-sands-2-primary-draft-v1.png?v=1786304346",
+    "variants": [
+      {
+        "sku": "SW-WHITE-SANDS-2-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-SANDS-2-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "white-tea-and-sage",
+    "name": "White Tea and Sage",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/white-tea-and-sage-primary-draft-v1.png?v=1786304325",
+    "variants": [
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-WHITE-TEA-AND-SAGE-LOTION",
+        "name": "Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      }
+    ]
+  },
+  {
+    "product_id": "y-iced-type",
+    "name": "Y ICED",
+    "category": "Roll-on",
+    "image_url": "https://cdn.shopify.com/s/files/1/0809/5744/0254/files/Y-ICED_TYPE.png?v=1786201949",
+    "variants": [
+      {
+        "sku": "SW-Y-ICED-TYPE-1-2-OZ-BOSTON-ROUND",
+        "name": "1/2 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          9.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-1-OZ-BOSTON-ROUND",
+        "name": "1 oz Boston Round",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-1-OZ-ROLL-ON",
+        "name": "1 oz Roll On",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          11.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-AIR-FRESHENER",
+        "name": "Air Freshener",
+        "dimensions_cm": [
+          4.0,
+          4.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-BODY-LOTION",
+        "name": "Body Lotion",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-BODY-MIST",
+        "name": "Body Mist",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          16.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-BODY-WASH",
+        "name": "Body Wash",
+        "dimensions_cm": [
+          6.0,
+          6.0,
+          18.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-MASSAGE-OIL",
+        "name": "Massage Oil",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          15.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-BODY-BUTTER",
+        "name": "Body Butter",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          7.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-COLOGNE-SPRAY",
+        "name": "Cologne Spray",
+        "dimensions_cm": [
+          5.0,
+          4.0,
+          13.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-SUGAR-SCRUB",
+        "name": "Sugar Scrub",
+        "dimensions_cm": [
+          9.0,
+          9.0,
+          8.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-GIFT-SET",
+        "name": "Gift Set",
+        "dimensions_cm": [
+          24.0,
+          18.0,
+          10.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-2-OZ-BOSTON-ROUND",
+        "name": "2 oz Boston Round",
+        "dimensions_cm": [
+          5.0,
+          5.0,
+          12.0
+        ],
+        "fragile": true
+      },
+      {
+        "sku": "SW-Y-ICED-TYPE-1-3-OZ-BOSTON-ROUND",
+        "name": "1/3 oz Boston Round",
+        "dimensions_cm": [
+          3.0,
+          3.0,
+          8.0
+        ],
+        "fragile": true
+      }
+    ]
+  }
+]
