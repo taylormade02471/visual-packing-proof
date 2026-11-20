@@ -8,6 +8,8 @@ Current reproducible proof benchmark: 70 queries, 42.073 ms p95 hot search laten
 
 Delivery mapping: Week 1 finalizes requirements and data audit; Weeks 2–4 build leak-resistant labeled splits and fine-tuned prototypes; Weeks 5–7 integrate and test search plus packing verification; Week 8 optimizes, documents, trains operators, and hands over the monitoring/retraining process. ERP/CRM integration and hardware procurement remain outside scope as requested.
 
-Live demo: `[CLOUD_RUN_URL]`
+Live demo: [Stone Wick Visual Search & Packing AI](https://visual-packing-proof-915634103558.us-central1.run.app)
 
-Source and evidence: `[GITHUB_URL]`
+Source and evidence: [GitHub repository](https://github.com/taylormade02471/visual-packing-proof)
+
+Demo video: [Proof Demo Video](https://youtu.be/Z0Q47TKUG5A)
